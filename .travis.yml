@@ -1,0 +1,9 @@
+language: java
+
+git:
+  depth: 3
+
+script:
+  - javac Main.java && java Main
+
+ 
