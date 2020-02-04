@@ -1,7 +1,7 @@
-/* Class:
- * Section:
- * EmplId:
- * Name: 
+/* Class: CISC 3130
+ * Section: TY9
+ * EmplId: ****8149
+ * Name: Elena Tarasova
  */
 
 public class Main {
